@@ -119,8 +119,9 @@ jupyter notebook hwrite2latex.ipynb
 
 **Diptanu Biswas**
 Final-Year BTMT (Computational Mathematics), NIT Agartala
-📧 [diptanubiswas@email.com](mailto:diptanubiswas@email.com)
-💼 [LinkedIn](https://linkedin.com/in/diptanubiswas) 🐙 [GitHub](https://github.com/yourusername)
+📧 [officialdiptanu01@email.com](mailto:officialdiptanu01@email.com)
+💼 [LinkedIn](https://linkedin.com/in/diptanu01) 
+🐙 [GitHub](https://github.com/diptanu06)
 
 ---
 
